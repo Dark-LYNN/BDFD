@@ -24,11 +24,11 @@
     <a href="https://play.google.com/store/apps/details?id=com.jakubtomana.discordbotdesinger&utm_source=main_page&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><strong>Download »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Main">Markdown</a>
+    <a href="https://discord.gg/dYaURfzjtS">Discord</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Report Bug</a>
+    <a href="https://botdesignerdiscord.com/">Website</a>
     ·
-    <a href="https://github.com/othneildrew/Best-README-Template/issues">Request Feature</a>
+    <a href="https://github.com/Dark-LYNN/Dark-LYNN/">Dark-LYNN</a>
   </p>
 </p>
 
