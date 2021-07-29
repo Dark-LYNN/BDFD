@@ -2,7 +2,7 @@
 
 #### This fuction adds a button to the response of the .
 
-###:heavy_exclamation_mark: this function needs an $onInteraction trigger or a weblink
+### :heavy_exclamation_mark: this function needs an $onInteraction trigger or a weblink
 
 #
 
