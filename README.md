@@ -34,4 +34,4 @@
 
 [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
 [![MIT license](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
-[![Discord](https://img.shields.io/discord/738381353921544282.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/SBj5WzeVBj)
+[![Discord](https://img.shields.io/discord/566363823137882154.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/dYaURfzjtS)
