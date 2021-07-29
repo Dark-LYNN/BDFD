@@ -13,15 +13,15 @@
 <br />
 <p align="center">
   <a href="https://github.com/Dark-LYNN/BDFD/">
-    <img src=".BDFD_Logo.png" alt="Logo" width="80" height="80">
+    <img src=".BDFD_Logo.png" alt="Logo" width="100" height="100">
   </a>
 
-  <h3 align="center">Dark-LYNN</h3>
+  <h3 align="center">BDFD Docs</h3>
 
   <p align="center">
-    Welcome to my awsome github page!
+    This page is here to help you using BotDesignerForDiscord.
     <br />
-    <a href="https://github.com/othneildrew/Best-README-Template"><strong>Explore the docs »</strong></a>
+    <a href="https://play.google.com/store/apps/details?id=com.jakubtomana.discordbotdesinger&utm_source=main_page&pcampaignid=pcampaignidMKT-Other-global-all-co-prtnr-py-PartBadge-Mar2515-1"><strong>Download »</strong></a>
     <br />
     <br />
     <a href="https://github.com/Dark-LYNN/Dark-LYNN/tree/main/Main">Markdown</a>
