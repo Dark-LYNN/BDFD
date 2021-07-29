@@ -11,12 +11,13 @@
 </br>
 
 ### Fields:
-`$addButton[1;2;3;style;disabled;emoji;messageID]`
+`$addButton[1;2;3;4;disabled;emoji;messageID]`
 field | Name | usage
 -----|-----|-----
 .1 | New Row | Yes , No
 .2 | interaction ID | Link with an $onInteraction trigger or link from a website
-.3 | label | Primary (blurple) , Secondary (grey) , Success(green) , Danger(red) , Link(gray + link icon)
+.3 | Label | The text that is shown on the button.
+.4 | Style | Primary (blurple) , Secondary (grey) , Success(green) , Danger(red) , Link(gray + link icon)
 
 
 
