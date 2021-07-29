@@ -36,4 +36,4 @@
 [![MIT license](https://img.shields.io/badge/License-MIT-informational.svg)](https://github.com/Dark-LYNN/Dark-LYNN/)
 [![Discord](https://img.shields.io/discord/566363823137882154.svg?label=&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/dYaURfzjtS)
 
-# ** **
+# 
