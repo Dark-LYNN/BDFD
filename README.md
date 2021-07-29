@@ -13,7 +13,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/Dark-LYNN/BDFD/">
-    <img src=".BDFD_Logo.png" alt="Logo" width="100" height="100">
+    <img src=".BDFD_Logo.png" alt="Logo" width="150" height="150">
   </a>
 
   <h3 align="center">BDFD Docs</h3>
