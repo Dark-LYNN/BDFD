@@ -20,4 +20,8 @@ field | Name | usage
 :-----:|:-----|:-----
 .1 | name | The name that the emote will have.
 .2 | url | The link of the image 
-.3 | Label | The text that is shown on the button.
+.3 | return emoji id | <yes or no>
+
+## Preview
+
+Not available
