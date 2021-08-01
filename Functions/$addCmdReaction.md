@@ -2,8 +2,6 @@
 
 #### This fuction adds reactions to the message from the bot.
 
-### :heavy_exclamation_mark: this function needs an $onInteraction trigger or a weblink
-
 #
 
 ### Usage:
