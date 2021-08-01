@@ -1,1 +1,1 @@
-# addCmdReactions
+# $addCmdReactions
