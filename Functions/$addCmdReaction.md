@@ -16,8 +16,8 @@
 `$addCmdReactions[1;2;etc]`
 field | Name | usage
 :-----:|:-----|:-----
-.1 | <emote1> | An emote {required}
-.2 | <emote2> | An emote {optional}
+.1 | emote1 | An emote {required}
+.2 | emote2 | An emote {optional}
 .3 | etc | An emote {optional}
 
 ## Preview
