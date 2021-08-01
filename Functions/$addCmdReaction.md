@@ -8,7 +8,8 @@
 `$addCmdReactions[<emote1>;<emote2>;etc]`
 ### Example:
 `$addCmdReactions[😄;😢]`
-
+### Note:
+`Allows normal emojis and discord's custom emoji`
 </br>
 
 ## Preview
