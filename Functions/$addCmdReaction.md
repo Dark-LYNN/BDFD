@@ -5,8 +5,8 @@
 #
 
 ### Usage:
-`$addButton[new row;interaction ID or url;label;style;disabled;emoji;messageID]`
+`$addCmdReaction[<emote1>;<emote2>;etc]`
 ### Example:
-`$addButton[no;Help1;Next page;primary;no;870219722929610762]`
+`$addCmdReaction[😄;😢]`
 
 </br>
