@@ -11,8 +11,10 @@
 ### Note:
 `Max number of fields is 25 fields`
 <br>
-`Max number of characters is 255 in the title.`
+`Max number of characters in the title is 255.`
 </br>
+`Max number of characters in value is 1024.`
+<br>
 
 ### Fields:
 `$addField[1;2;etc]`
