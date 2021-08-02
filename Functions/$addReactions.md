@@ -8,6 +8,8 @@
 `$addReactions[emote;emote]`
 ### Example:
 `$addReactions[😄;😢]`
+### Note:
+`Allows normal emojis and discord's custom emoji`
 <br>
 
 ### Fields:
@@ -19,4 +21,4 @@ field | Name | usage
 .3 | etc | other emojis {optional}
 <br>
 ## Preview
-![image](https://user-images.githubusercontent.com/65414822/127845691-a7b722c1-f2b5-4e16-9f43-7a46d5075828.png)
+![image](https://user-images.githubusercontent.com/65414822/127911220-074013a3-3ca1-4565-a4be-fc46805a1146.png)
