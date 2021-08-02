@@ -23,7 +23,7 @@ field | Name | usage
 .1 | name | This is the name of the field.
 .2 | value | the description of the field.
 .3 | inline | if the fields need to be inline or not <yes/no> {optional}
-.4 | index | the number of embed that the field needs to be in
+.4 | index | the number of embed that the field needs to be in. {optional}
 
 ## Preview
 ![image](https://user-images.githubusercontent.com/65414822/127845691-a7b722c1-f2b5-4e16-9f43-7a46d5075828.png)
