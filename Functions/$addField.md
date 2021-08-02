@@ -10,6 +10,7 @@
 `$addField[Field:;This is a field.;yes;1]`
 ### Note:
 `Max number of fields is 25 fields`
+<br>
 `Max number of characters is 255 in the title.`
 </br>
 
