@@ -20,5 +20,6 @@ field | Name | usage
 .2 | emote | an emoji {optional}
 .3 | etc | other emojis {optional}
 <br>
+
 ## Preview
 ![image](https://user-images.githubusercontent.com/65414822/127911220-074013a3-3ca1-4565-a4be-fc46805a1146.png)
