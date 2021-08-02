@@ -17,12 +17,13 @@
 <br>
 
 ### Fields:
-`$addField[1;2;etc]`
+`$addField[1;2;3;4]`
 field | Name | usage
 :-----:|:-----|:-----
-.1 | emote1 | An emote {required}
-.2 | emote2 | An emote {optional}
-.3 | etc | An emote {optional}
+.1 | name | This is the name of the field.
+.2 | value | the description of the field.
+.3 | inline | if the fields need to be inline or not <yes/no> {optional}
+.4 | index | the number of embed that the field needs to be in
 
 ## Preview
-![image](https://user-images.githubusercontent.com/65414822/127781388-bc6bdd52-e37d-429b-a8ff-1da7c587ea91.png)
+![image](https://user-images.githubusercontent.com/65414822/127845691-a7b722c1-f2b5-4e16-9f43-7a46d5075828.png)
